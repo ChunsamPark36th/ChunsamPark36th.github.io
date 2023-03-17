@@ -1,0 +1,31 @@
+
+p{
+    font-family: sans-serif;
+    font-size: 28px;
+}
+
+h1{
+    font-style: bold;
+    font-size: 100px;
+    font-family: sans-serif;
+}
+
+ul{
+    font-size: 28px;
+}
+
+a{
+font-size:28px;
+}
+
+body{
+    background-color:aliceblue;
+}
+
+img{
+    width: 200px;
+}
+
+h3{
+    font-size:75px;
+}
